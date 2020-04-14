@@ -1,0 +1,10 @@
+O desafio é construir uma aplicação que recebe 2 mãos de poker e diz qual dos jogadores venceu.
+
+Fique a vontade para escolher as tecnologias que vai usar e o quão simples ou complexa será a aplicação.
+Aproveite para mostrar o que sabe!
+
+​
+
+Pode ser uma interface de linha de comando, pode ser uma aplicação com interface gráfica, pode ser uma API REST...
+
+Você que manda!
